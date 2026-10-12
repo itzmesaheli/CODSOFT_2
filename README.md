@@ -90,4 +90,4 @@ Python, pandas, NumPy, scikit-learn, matplotlib, joblib
 
 ## Demo
 
-LinkedIn video: *add your link here after posting* #codsoft
+LinkedIn video: https://lnkd.in/p/gd5w7BFQ #codsoft
